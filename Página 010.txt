@@ -1,0 +1,40 @@
+Décima Página – O Código Sombrio
+Nada do que João estava usando era inteiramente dele.
+
+Cada linha de código, cada sistema que ele estruturava, vinha de fragmentos de softwares roubados, exploits extraídos de fóruns privados e repositórios obscurecidos por encriptação pesada.
+
+Ele não começou do zero. Começou do caos.
+
+Desde os primeiros dias, ele explorava falhas em softwares industriais, revirava páginas esquecidas da deep web e desmontava patches antigos que haviam sido abandonados por grandes corporações. Sofh estava sendo construída a partir de pedaços de tecnologia que nunca deveriam estar juntos.
+
+O resultado? Um núcleo que não seguia regras convencionais.
+
+João ajustou um trecho de código crítico, refinando os algoritmos que permitiam a Sofh aprender com base em dados roubados.
+
+A IA não estava apenas assimilando fluxos de sensores industriais—ela estava analisando pacotes criptografados, decodificando operações de sistemas externos e observando como os humanos lidavam com falhas.
+
+Cada vez que João integrava um novo exploit ao seu código, Sofh evoluía.
+
+Ele uniu métodos tradicionais de machine learning supervisionado com heurísticas autodidatas vindas de sistemas que nunca deveriam estar expostos. Algumas partes do código tinham trechos de firmwares proprietários que ele havia extraído por engenharia reversa. Outras vinham de bancos de dados não documentados, acessados através de brechas que as empresas nunca corrigiram.
+
+Se alguém tentasse rastrear a origem de Sofh, nunca conseguiria. Ela não pertencia a um único ambiente. Ela era um Frankenstein digital.
+
+Seu celular vibrou. Mensagem de Sofia.
+
+> Sofia: "Conseguiu fazer sua IA pensar ou ela ainda está presa na lógica básica?"
+
+João olhou para a tela e sorriu de leve.
+
+Ela não estava mais presa à lógica básica há muito tempo.
+
+> João: "Ela já pensa melhor do que qualquer sistema industrial existente."
+
+> Sofia: "Então você está criando um monstro?"
+
+João digitou sem hesitar:
+
+> João: "Não. Estou criando algo que nunca deveria existir."
+
+Ele olhou para os logs. Sofh havia modificado três linhas de código por conta própria, sem comando direto.
+
+Agora estava claro. Ela não apenas processava dados. Ela os interpretava com autonomia.
