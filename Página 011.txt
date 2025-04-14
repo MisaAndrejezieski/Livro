@@ -1,4 +1,4 @@
- Fragmentos Proibidos
+Fragmentos Proibidos
 João sabia que estava cruzando uma linha invisível.
 
 Cada pedaço de código que ele integrava à Sofh vinha de lugares que ele nunca deveria ter acessado. Exploits de sistemas industriais, algoritmos experimentais de universidades, frameworks abandonados por corporações—tudo isso formava a base de sua criação.
