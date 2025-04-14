@@ -1,0 +1,20 @@
+Rotina em Carambeí
+O despertador vibrou às 5h30, mas João já estava acordado. Ele sempre despertava antes do alarme, como se seu corpo seguisse uma programação invisível, um ciclo que não precisava de lembretes para se repetir. Não era insônia, apenas o resultado de anos de hábito. O trabalho não exigia essa pontualidade rigorosa, mas, de alguma forma, João não conseguia escapar dela.
+
+Ainda deitado, observou a luz fraca do amanhecer invadir o apartamento. O pequeno cômodo estava silencioso, sem qualquer som além do leve zumbido da geladeira—uma sinfonia mecânica que parecia sincronizar-se com a monotonia de sua rotina. Carambeí despertava devagar, mas pontualmente. Do lado de fora, ele sabia que as empilhadeiras já começavam a se movimentar nos galpões industriais, que os primeiros caminhões-tanque das fábricas de laticínios cortavam as ruas asfaltadas rumo às rodovias, e que as padarias se enchiam de trabalhadores que buscavam um café apressado antes do turno.
+
+João levantou-se sem entusiasmo. Seguiu diretamente para a cozinha, onde a cafeteira automática já havia cumprido sua função. Ele próprio havia configurado o sistema da casa para iniciar o preparo do café antes mesmo de ele acordar. Programou isso meses atrás, mais por uma necessidade de controle do que por comodidade. Mas, ao contrário da maioria, ele não gostava do café quente. Pegou o copo que havia deixado na geladeira na noite anterior e despejou o líquido escuro e frio—um gosto amargo e intenso, exatamente como ele preferia.
+
+Carambeí era uma cidade pequena, mas não rural. Suas ruas bem pavimentadas e a infraestrutura organizada davam a ela uma aparência moderna, mas sua alma ainda estava fortemente ligada à indústria. As duas gigantes do laticínio moldavam o funcionamento do município, determinavam os horários do comércio e definiam o ritmo da vida de seus 18 mil habitantes. Se alguém não trabalhava diretamente nelas, tinha algum envolvimento indireto—como transportador, produtor, fornecedor ou comerciante.
+
+João tragou seu primeiro cigarro do dia, observando a fumaça se misturar ao vapor das fábricas que subia em direção ao céu nublado. Todos os dias a cidade despertava da mesma forma, e todos os dias ele se via preso ao mesmo ciclo. Seu trabalho exigia competência e dedicação, mas nunca o recompensava da forma que deveria.
+
+Ele era meticuloso. Dominava cada detalhe da fábrica melhor do que seus superiores. Ajustava sensores de temperatura, calibrava controladores da linha de produção e conseguia prever falhas antes mesmo que elas acontecessem. Trabalhava com sistemas de automação industrial, conhecia bem os PLCs (Programmable Logic Controllers) e entendia as complexas redes Modbus que conectavam os equipamentos. Os gerentes confiavam nele, mas nunca para algo que o levasse adiante—apenas para resolver problemas invisíveis aos olhos deles.
+
+E era exatamente isso que o mantinha preso. Quanto mais eficiente ele era, mais seus chefes imediatos se aproveitavam de suas habilidades sem oferecer qualquer reconhecimento real. Eles apresentavam suas soluções como se fossem deles, tomavam seus resultados como mérito próprio e garantiam que João continuasse onde estava.
+
+Ele sabia que, sozinho, nunca quebraria esse ciclo. Competência sem estratégia era inútil.
+
+Hoje seria apenas mais um dia, pensou.
+
+Ou ao menos era o que ele acreditava.
