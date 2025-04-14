@@ -1,0 +1,50 @@
+Sexta Página – Código e Café
+O relógio marcava 19h42, e João finalmente deixava a fábrica.
+
+O expediente havia sido intenso, mas nada fora do esperado. A cada dia, novas demandas surgiam, e ele sempre precisava improvisar para resolver problemas que sequer deveriam ser seus. Mas tudo bem—ele já sabia jogar esse jogo.
+
+Ao sair pelos portões, o vento fresco da noite trouxe uma sensação diferente. Não era cansaço. Era antecipação.
+
+Passou na mercearia de bairro e pegou um pacote de café. Depois de tantas horas lidando com máquinas pesadas, sistemas falhando e ordens sendo dadas sem muita lógica, ele precisava daquilo. Café e silêncio.
+
+Chegou em casa, tirou o uniforme e lavou o rosto, deixando que a água fria aliviasse um pouco a tensão acumulada no corpo. Mas o verdadeiro descanso começava agora.
+
+Agora eram 1h37 da madrugada, e João não sentia sono.
+
+Sentado em sua mesa improvisada, ele tinha a atenção fixa na tela do computador. O ambiente ao seu redor era simples, mas funcional—uma luz amarelada iluminava os teclados, um ventilador girava de forma preguiçosa, e a única música ambiente era o som do café pingando lentamente na cafeteira.
+
+Era aqui, neste espaço, que ele realmente existia.
+
+Na fábrica, ele seguia ordens. Aqui, ele criava.
+
+Seu projeto era ambicioso—um sistema próprio de automação industrial, algo que vinha desenvolvendo há meses. Não era só um hobby. Era um plano.
+
+O código crescia na tela, linha após linha, enquanto ele ajustava parâmetros, corrigia bugs e refinava os algoritmos que poderiam, um dia, redefinir processos industriais inteiros.
+
+Seu celular vibrou na mesa. Mensagem de Sofia.
+
+> Sofia: "Ainda acordado? Aposto que sim. Quero te mostrar um código amanhã. Tá trabalhando no seu projeto secreto?"
+
+Ele riu de leve antes de responder.
+
+> João: "Não é secreto. Só não quero ter que explicar tudo para um supervisor que nem sabe diferenciar código de planilha."
+
+Em poucos segundos, ela respondeu.
+
+> Sofia: "Justo. Se precisar testar algo no sistema da fábrica, me avise. Posso ajudar sem ninguém perceber."
+
+João ficou olhando para a tela por alguns instantes. A ideia era tentadora.
+
+Se pudesse testar parte de seu código em um sistema real, os resultados seriam muito mais concretos. Mas isso significava expor o que estava criando—e isso ainda parecia um risco.
+
+Ele deixou o celular de lado e voltou ao código. Mais algumas linhas. Ajustes na comunicação dos sensores. Recalibragem automática. Esse sistema poderia reduzir falhas operacionais pela metade, eliminando erros que João via acontecer diariamente.
+
+As horas passaram sem que ele percebesse. O café esfriava cada vez mais. O sol começava a anunciar seu retorno.
+
+Com um último comando, João rodou a simulação e esperou.
+
+O resultado apareceu na tela. Funcionou.
+
+Ele soltou um suspiro aliviado. Não totalmente satisfeito—nunca estava. Mas o suficiente para sentir que estava um passo mais próximo de algo maior.
+
+Na fábrica, ele consertava. Aqui, ele inovava.
